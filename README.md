@@ -1,3 +1,5 @@
+# W życiu nie ma tak że dobrze albo że nie dobrze
+
 # CachyOS-Settings
 This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations.
 
